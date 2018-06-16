@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif,arial;
+}
+.backbutton {
+    background-color: skyblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.backbutton:hover
+{
+                background-color:#fafafa;
+                color:#207cca;
+}
+.search {
+            padding: 8px 15px;
+            background: rgba(50, 50, 50, 0.2);
+            border: 0px solid #dbdbdb;
+        }
+
+        .button {
+            width: 140px;
+            padding: 6px 15px;
+            left: 150px;
+            border: 2px solid #207cca;
+            background-color: #207cca;
+            color: #fafafa;
+        }
+
+        .button:hover {
+            background-color: #fafafa;
+            color: #207cca;
+        }
